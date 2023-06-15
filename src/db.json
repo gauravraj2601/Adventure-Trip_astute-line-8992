@@ -1,0 +1,32 @@
+{
+    "trips": [
+      {
+        "id": 1,
+        "title": "Mountain Trek",
+        "location": "Himalayas",
+        "duration": "7 days",
+        "difficulty": "Intermediate",
+        "description": "Experience a breathtaking trekking adventure in the majestic Himalayas. Explore stunning landscapes and challenge yourself with exhilarating trails.",
+        "image": "https://example.com/images/mountain-trek.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Jungle Safari",
+        "location": "Amazon Rainforest",
+        "duration": "5 days",
+        "difficulty": "Beginner",
+        "description": "Embark on an unforgettable journey through the Amazon Rainforest. Encounter diverse wildlife, hike through lush jungles, and immerse yourself in nature's wonders.",
+        "image": "https://example.com/images/jungle-safari.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Scuba Diving Expedition",
+        "location": "Great Barrier Reef",
+        "duration": "3 days",
+        "difficulty": "Advanced",
+        "description": "Dive into the mesmerizing world of the Great Barrier Reef. Explore vibrant coral reefs, encounter colorful marine life, and witness the beauty of the underwater world.",
+        "image": "https://example.com/images/scuba-diving.jpg"
+      }
+    ]
+  }
+  
