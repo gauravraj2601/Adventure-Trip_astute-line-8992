@@ -14,7 +14,7 @@ const Navbar = () => {
       path:"/signin",
       title:"Sign in"
     },{
-      path:"/host",
+      path:"/",
       title:"Host an Adventure"
     },
   ]
