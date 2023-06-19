@@ -29,7 +29,7 @@ import {
     ListItem,
   } from '@chakra-ui/react';
 //   import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
-  import { MdLocalShipping } from 'react-icons/md';
+//   import { MdLocalShipping } from 'react-icons/md';
 import axios from 'axios';
   
   export default function SingleCard() {
@@ -90,13 +90,13 @@ import axios from 'axios';
                 <Text fontSize={'lg'}>
                   {description}
                 </Text>
-                <Text
+                {/* <Text
                   color={useColorModeValue('gray.500', 'gray.400')}
                   fontSize={'2xl'}
                   fontWeight={'300'}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore
-                </Text>
+                </Text> */}
               </VStack>
              
               <Box>
