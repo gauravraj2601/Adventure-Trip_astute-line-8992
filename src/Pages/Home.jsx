@@ -10,7 +10,7 @@ const Home = () => {
   const [filteredActivity, setFilteredActivity] = useState([]);
 
   useEffect(() => {
-   axios.get(`https://shy-blue-llama-sock.cyclic.app/trips`)
+   axios.get(`https://advtr-api.onrender.com/trips`)
    .then((res) => {
     setActivity(res.data)
    })
