@@ -38,7 +38,7 @@ import axios from 'axios';
     const [tour, setTour]= useState([]);
     const fetchData= async ()=>{
         try {
-            const res= await axios.get(`https://shy-blue-llama-sock.cyclic.app/trips/${id}`)
+            const res= await axios.get(`https://advtr-api.onrender.com/trips/${id}`)
             const data= res.data;
             console.log(tour)
             setTour(data)
